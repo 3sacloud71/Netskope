@@ -1,0 +1,8 @@
+Michael Müller	Deutsche Bank DE12500105170648489890
+Peter Huber		Post Bank	DE12500105150648489123
+Martina Meier	Commerzbank	DE12500105170648445689
+Olaf Schubert	Sparkasse Dresden	DE12400105170645679890
+Achim Wohlfahrt	Raiffeisenbank Stuttgart	DE34700105170648489812
+ 
+
+	
